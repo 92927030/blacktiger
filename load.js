@@ -1,0 +1,1 @@
+window.__anima__ = {"session_data":{"is_paying_team":false},"session_id":"ml2e6w87EuU2Yp"};
